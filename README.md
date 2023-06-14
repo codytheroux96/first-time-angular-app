@@ -20,9 +20,11 @@ To use this boilerplate, follow these steps:
 
 3. // @TODO: RUN SCRIPT TO RENAME PROJECT AND LIB
 
-4. Run the Angular Demo Application using `ng serve` command. This will launch the application and allow you to interact with the Angular Library's components.
+4. Before running the application you will need to run the command `ng build terry-lib` first before proceeding to step 5.
 
-5. Use the theme picker component to switch between different themes and test the components in different visual settings.
+5. Run the Angular Demo Application using `ng serve` command. This will launch the application and allow you to interact with the Angular Library's components.
+
+6. Use the theme picker component to switch between different themes and test the components in different visual settings.
 
 Feel free to modify and extend this boilerplate to suit your specific project requirements. It provides a solid foundation for creating Angular applications with Angular Material, Angular Library, and an integrated theming system.
 
