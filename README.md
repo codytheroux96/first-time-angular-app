@@ -1,5 +1,5 @@
 # Angular Material Library Boilerplate
-
+## My first angular app
 This repository serves as a boilerplate for Angular projects that utilize Angular Material. It is set up using Angular's projects (mono-repo) structure, providing an Angular Library and an Angular Application to demonstrate the library's capabilities. This setup allows users to quickly get started by seamlessly integrating the Angular Library into the Angular Demo Application.
 
 ## Features
